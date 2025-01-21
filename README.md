@@ -1,2 +1,2 @@
 # programacion_estructurada
-Programas elaborados en la materia de programación estructurada
+Programas elaborados como ejemplo por el Ing. Joan Valle en la materia de Programación Estructurada

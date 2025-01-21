@@ -1,0 +1,13 @@
+Practica 1
+   Practica de segundos a horas, minutos, segundos.
+Practica 2
+   practica contar cifras de un número dado.
+Practica 3
+   Crea un programa que solicite las calificaciones y te saque el promedio general y decir si el alumno aprobo o reprobo.
+Practica 4
+   Crea un programa que calcule el factorial de un número entero ingresado por el usuario.
+   Ejemplo: El factorial de 5 (5!) es 5 * 4 * 3 * 2 * 1 = 120.
+Practica 5
+   Crea un programa que calcule la suma de los números pares del 1 al número que me de el usuario.
+Practica 6
+   Crea un programa que permita al usuario ingresar 5 números y calcule cuál es el número mayor y los ordene de mayor a menor.
