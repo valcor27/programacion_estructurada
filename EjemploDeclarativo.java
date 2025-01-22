@@ -9,6 +9,7 @@ public class EjemploDeclarativo {
       // Imprimimos el resultado de la suma
       System.out.println("Suma: " + sum); // Resultado esperado: 15
       System.out.println("Suma: " + sum); // Resultado esperado: 15
+      System.out.println("Suma: " + sum); // Resultado esperado: 15
    }
 }
 /*
